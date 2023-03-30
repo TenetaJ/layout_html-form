@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,cACE,aAAc,CACd,kBACF,CAEA,cACE,kBAAmB,CACnB,gBACF","file":"style.d0200a7c.css","sourceRoot":"..\\src","sourcesContent":[".label_bottom {\n  display: block;\n  margin-bottom: 10px;\n}\n\n.field_inform {\n  margin-bottom: 20px;\n  padding-bottom: 0;\n}\n"]}
